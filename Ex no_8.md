@@ -13,9 +13,7 @@ To write a C program to perform multiplication and division of two numbers using
 
 ## Program:
 ```
-program to perform multiplication and division of two numbers using functions (without argument and without return type)
-Developed by Dharshini M
-Register number:212222060044
+
 
 #include<stdio.h> 
 void multiply(int a,int b); 
