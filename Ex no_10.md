@@ -13,8 +13,7 @@ To write a C program to find the factorial of a given number using a function wi
 
 ## Program:
 ```
-Developed by Dharshini M
-212222060044
+
 #include <stdio.h> 
 int main() { 
     int n, i; 
